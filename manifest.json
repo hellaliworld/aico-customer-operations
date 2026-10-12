@@ -1,0 +1,15 @@
+{
+  "name": "AI Customer Operations Starter Kit",
+  "version": "0.2-prototype",
+  "created": "2026-10-12",
+  "price_usd": 79,
+  "pilot_cases_limit": 50,
+  "delivery_days": 7,
+  "human_review_required": true,
+  "shopify_connected": false,
+  "ai_api_connected": false,
+  "publicly_hosted": false,
+  "business_registered": false,
+  "real_customer_data_allowed": false,
+  "description": "Static browser prototype, rule-based triage and response drafts, operating procedures, QA test plan, and spreadsheet tracker."
+}
